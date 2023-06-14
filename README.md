@@ -18,7 +18,7 @@ with active support from Cunxi Yu (IWLS 2023 General Chair) as well as Xiaoqing 
 
 ### Benchmarks
 
-The [benchmarks](https://github.com/alanminko/iwls2023-ls-contest/tree/main/benchmarks) available in this repository are composed of 100 functions 
+The [benchmarks](https://github.com/alanminko/iwls2023-ls-contest/tree/main/benchmarks) available in this repository are composed of 100 functions.
 
 Please refer to the [results presentation](https://github.com/alanminko/iwls2023-ls-contest/blob/main/IWLS_2023_Contest_Presentation.pdf) for the details on the benchmarks.
 
