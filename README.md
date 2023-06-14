@@ -18,15 +18,15 @@ with active support from Cunxi Yu (IWLS 2023 General Chair) as well as Xiaoqing 
 
 ### Benchmarks
 
-The [benchmarks](https://github.com/alanminko/iwls2023-ls-contest/tree/main/benchmarks) available in this repository are composed of 100 functions with truth tables listed in a text file: 
+The [benchmarks](https://github.com/alanminko/iwls2023-ls-contest/tree/main/benchmarks) available in this repository are composed of 100 functions 
 
-Please refer to the [results presentation](https://github.com/alanminko/iwls2023-ls-contest/blob/main/IWLS_2023_Contest_Presentation.pdf) for the details on benchmarks.
+Please refer to the [results presentation](https://github.com/alanminko/iwls2023-ls-contest/blob/main/IWLS_2023_Contest_Presentation.pdf) for the details on the benchmarks.
 
 ---
 
 ### Participants
 
-Please refer to the [results presentation](https://github.com/alanminko/iwls2023-ls-contest/blob/main/IWLS_2023_Contest_Presentation.pdf) for the details on participants.
+Please refer to the [results presentation](https://github.com/alanminko/iwls2023-ls-contest/blob/main/IWLS_2023_Contest_Presentation.pdf) for the details on the participants.
 
 ---
        
@@ -38,7 +38,7 @@ With the participants' permission, the circuits submitted to the contest can be 
 
 ### Winners
 
-Please refer to the [results presentation][PDF](https://github.com/alanminko/iwls2023-ls-contest/blob/main/IWLS_2023_Contest_Presentation.pdf) for the details on participants.
+Please refer to the [results presentation](https://github.com/alanminko/iwls2023-ls-contest/blob/main/IWLS_2023_Contest_Presentation.pdf) for the details on the winners.
 
 Congratulations to the winners!
 
